@@ -1,0 +1,47 @@
+
+body{
+    background-color: #012545;
+}
+
+.navbar{
+    background-color: #0f4c81;
+}
+
+.card {
+    border: 5px solid #d6de42;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.sidebar {
+    background-color: #0f4c81;
+}
+
+.sidebar a {
+    color: #fff;
+}
+
+.sidebar a:hover {
+    background-color: #0a3c65; 
+}
